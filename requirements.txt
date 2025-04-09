@@ -1,0 +1,17 @@
+pypdf
+langchain
+accelerate
+bitsandbytes
+ctransformers
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+langchain
+langchain-community
+llama-parse
+fastembed
+chromadb
+python-dotenv
+unstructured[md]
+# TheBloke/Llama-2-7B-Chat-GGUF
